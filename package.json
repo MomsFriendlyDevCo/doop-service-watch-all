@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-watch-all",
+  "name": "@doop/watch-all",
   "version": "1.0.0",
   "description": "A watchAll service for the Doop framework",
   "repository": {
