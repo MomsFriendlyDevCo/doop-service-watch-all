@@ -1,4 +1,5 @@
 <script lang="js" frontend>
+// TODO: Create vue-watch-all and import
 /**
 * Binds a simple vm.$watchAll([props...], handler) function into the prototype scope
 * This works similar to the Angular vm.$watch([...]) function
